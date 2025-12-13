@@ -21,8 +21,6 @@
 - **Input Size:** 224 × 224 RGB images
 - **Validation Accuracy:** ~97%
 
----
-
 ## 📦 Trained Model Download
 
 The trained model file is hosted externally due to GitHub file size limitations.
