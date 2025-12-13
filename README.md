@@ -21,8 +21,18 @@
 - **Input Size:** 224 × 224 RGB images
 - **Validation Accuracy:** ~97%
 
-> ⚠️ The trained model file is not included in this repository due to GitHub file size limits.
+---
 
+## 📦 Trained Model Download
+
+The trained model file is hosted externally due to GitHub file size limitations.
+
+👉 **Download the trained model:**  
+🔗 [https://drive.google.com/file/d/1Dn1xmLcQnZUssi7pXvbAhgckVuYx7r7W/view?usp=sharing](https://drive.google.com/file/d/1Dn1xmLcQnZUssi7pXvbAhgckVuYx7r7W/view?usp=sharing)
+
+### Setup Instructions
+1. Download `fruit_model1.keras`
+2. Place it inside:
 ---
 
 # 📓 MODEL TRAINING & EXPERIMENTATION
