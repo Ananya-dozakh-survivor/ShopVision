@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+venv/
+
+# ML models
+*.keras
+*.h5
+
+# Datasets / images
+fruits/
+data/
+dataset/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
