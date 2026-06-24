@@ -1,7 +1,7 @@
 # 🛒 SHOPVISION  
 ## Smart Grocery Recognition System
 
-**ShopVision** is an AI-powered smart billing system that automatically identifies loose fruits and vegetables using an uploaded image or live camera feed and generates accurate billing with confidence scores.
+**ShopVision** is an AI-powered smart billing system that automatically identifies loose fruits and vegetables using an uploaded image or live camera feed and generates accurate billing with confidence scores. 
 
 ---
 
